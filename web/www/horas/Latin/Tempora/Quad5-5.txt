@@ -1,5 +1,5 @@
 [Rank]
-Septem Dolorum Beatæ Mariæ Virginis;;Duplex majus;;4
+Septem Dolorum Beatæ Mariæ Virginis;;Duplex 1. classis;;6
 
 [Rank1960]
 Septem Dolorum Beatæ Mariæ Virginis;;Commemoratio;;1
